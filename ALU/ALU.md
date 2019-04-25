@@ -131,11 +131,11 @@ endmodule
 
 #### 实现资源消耗与性能统计：
 
-![1553351812110](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1553351812110.png)
+![1553351812110](./images/1553351812110.png)
 
-![1553351882257](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1553351882257.png)
+![1553351882257](./images/1553351882257.png)
 
-![1553352777855](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1553352777855.png)
+![1553352777855](./images/1553352777855.png)
 
 #### 仿真测试结果：
 
@@ -191,11 +191,11 @@ endmodule
 
 **结果正确：**
 
-![1553434951045](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1553434951045.png)
+![1553434951045](./images/1553434951045.png)
 
 ##### fibonacci 仿真(test_fibonacci.v)
 
-```ver
+```verilog
 module test_fibonacci(
 
     );
@@ -249,7 +249,7 @@ endmodule
 
 ```
 **结果正确：**
-![1553438401196](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1553438401196.png)
+![1553438401196](./images/1553438401196.png)
 
 ## 实验总结与感想：
 

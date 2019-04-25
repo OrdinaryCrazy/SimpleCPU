@@ -208,19 +208,19 @@ endmodule
 
 #### SORT:
 
-![1554432483040](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1554432483040.png)
+![1554432483040](./images/1554432483040.png)
 
-![1554432399178](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1554432399178.png)
+![1554432399178](./images/1554432399178.png)
 
-![1554432550864](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1554432550864.png)
+![1554432550864](./images/1554432550864.png)
 
 #### DIV:
 
-![1554433477383](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1554433477383.png)
+![1554433477383](./images/1554433477383.png)
 
-![1554433362500](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1554433362500.png)
+![1554433362500](./images/1554433362500.png)
 
-![1554433410429](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1554433410429.png)
+![1554433410429](./images/1554433410429.png)
 
 ### 仿真测试结果：
 
@@ -274,7 +274,7 @@ endmodule
 
 **结果正确：**
 
-![1554432658661](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1554432658661.png)
+![1554432658661](./images/1554432658661.png)
 
 #### DIV仿真（test_div.v）
 
@@ -404,7 +404,7 @@ endmodule
 
 **结果正确：**
 
-![1554433241698](C:\Users\张劲暾\AppData\Roaming\Typora\typora-user-images\1554433241698.png)
+![1554433241698](./images/1554433241698.png)
 
 ## 实验总结与感想：
 
